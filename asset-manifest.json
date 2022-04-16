@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dialer-animation/static/css/main.073c9b0a.css",
+    "main.js": "/dialer-animation/static/js/main.11c1cc85.js",
+    "static/js/787.db016e0d.chunk.js": "/dialer-animation/static/js/787.db016e0d.chunk.js",
+    "static/media/logo.svg": "/dialer-animation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dialer-animation/index.html",
+    "main.073c9b0a.css.map": "/dialer-animation/static/css/main.073c9b0a.css.map",
+    "main.11c1cc85.js.map": "/dialer-animation/static/js/main.11c1cc85.js.map",
+    "787.db016e0d.chunk.js.map": "/dialer-animation/static/js/787.db016e0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11c1cc85.js"
+  ]
+}
